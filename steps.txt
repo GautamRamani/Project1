@@ -1,0 +1,11 @@
+add in package.json file:-"start":"node index.js"
+
+
+steps for heroku login in command line:-
+heroku
+heroku login -i
+Email:gautam.ramani06@gmail.com
+Password:gkRAMA*$#0079
+heroku apps
+heroku logs --tail --app demogautam
+
